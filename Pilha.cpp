@@ -38,3 +38,4 @@ bool Pilha::cheia()
 {
 	return (topo == MAXPILHA-1);
 }
+

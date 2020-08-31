@@ -10,7 +10,7 @@ using TipoDado = int;			// tipo de dado armazenado na pilha
 
 class Pilha {
 protected:
-	TipoDado dados[MAXPILHA];	// índice dados
+	TipoDado dados[MAXPILHA];	// dados da pilha
 	int topo;           		// topo (índice)
 public:
 	Pilha();					// construtor
